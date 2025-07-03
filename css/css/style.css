@@ -10484,7 +10484,7 @@ ul.comment-list .th-comment-item:first-child > .th-post-comment {
   z-index: -1;
 }
 
-@media (max-width: 575px) {
+@media (max-width: 2050px) {
   .hero-1 .hero-slider1 .hero-inner {
     -webkit-mask-image: none !important;
     mask-image: none !important;
